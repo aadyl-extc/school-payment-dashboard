@@ -112,6 +112,8 @@ npm run dev
 
 ## 📁 Project Structure
 
+```bash
+
 FRONTEND/
 ├── node_modules/                         # Dependencies
 ├── public/                               # Static files
@@ -134,7 +136,7 @@ FRONTEND/
 ├── README.md                             # Project documentation
 ├── tailwind.config.js                    # Tailwind CSS configuration
 └── vite.config.js                        # Vite build configuration
-
+```
 ## 🔌 API Integration
 
 ### Endpoints Used
