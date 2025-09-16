@@ -239,5 +239,5 @@ npm run build
 ```
 
 🔗 Links
-🌐 Live Demo: [https://school-payment-dashboard.vercel.app](https://school-payment-dashboard-five.vercel.app/)
-📂 GitHub Repository: https://github.com/aadyl-extc/school-payment-dashboard
+🌐 Live Demo: <https://school-payment-dashboard-five.vercel.app/>
+📂 GitHub Repository: <https://github.com/aadyl-extc/school-payment-dashboard>
